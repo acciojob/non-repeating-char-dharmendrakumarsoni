@@ -1,4 +1,4 @@
-// first appraoch using emputy object
+// first appraoch using empty object
 // function firstNonRepeatedChar(str) {
 //  //Write your code here
 //   let obj = {};
